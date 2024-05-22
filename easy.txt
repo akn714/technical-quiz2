@@ -4,55 +4,53 @@
    C. John von Neumann
    D. Ada Lovelace
 
-4. Who is considered the father of electrical engineering for his work on electromagnetism?
+2. Who is considered the father of electrical engineering for his work on electromagnetism?
    A. Thomas Edison
    B. Nikola Tesla
    C. Michael Faraday
    D. James Clerk Maxwell
 
-8. What is the significance of the work of Leonardo da Vinci in mechanical engineering?
+3. What is the significance of the work of Leonardo da Vinci in mechanical engineering?
    A. He invented the steam engine
    B. He designed numerous mechanical devices and concepts
    C. He developed the first hydraulic press
    D. He created the first working airplane
 
+4. What was the primary material used in the construction of the Eiffel Tower?
+   A. Concrete
+   B. Steel
+   C. Iron
+   D. Brick
 
-10. What was the primary material used in the construction of the Eiffel Tower?
-    A. Concrete
-    B. Steel
-    C. Iron
-    D. Brick
+5. What is the purpose of an API (Application Programming Interface)?
+   A. To manage databases
+   B. To create user interfaces
+   C. To allow different software systems to communicate with each other
+   D. To design web pages
 
-13. What is the purpose of an API (Application Programming Interface)?
-    A. To manage databases
-    B. To create user interfaces
-    C. To allow different software systems to communicate with each other
-    D. To design web pages
+6. What is the main purpose of the virtual memory in an operating system?
+   A. To increase the RAM size
+   B. To speed up the CPU
+   C. To provide more memory to applications than physically available
+   D. To store frequently accessed files
 
-14. What is the main purpose of the virtual memory in an operating system?
-    A. To increase the RAM size
-    B. To speed up the CPU
-    C. To provide more memory to applications than physically available
-    D. To store frequently accessed files
-
-1. Which process is used to separate components of a liquid mixture based on the differences in their boiling points?
+7. Which process is used to separate components of a liquid mixture based on the differences in their boiling points?
    A. Filtration
    B. Crystallization
    C. Distillation
    D. Evaporation
 
-5. Which scientist is credited with the discovery of radioactivity?
+8. Which scientist is credited with the discovery of radioactivity?
    A. Niels Bohr
    B. Isaac Newton
    C. Marie Curie
    D. Albert Einstein
 
-6. Which country is credited with the invention of paper?
+9. Which country is credited with the invention of paper?
    A. India
    B. Greece
    C. China
    D. Egypt
-
 
 10. What is the term for the hypothetical region of spacetime with extremely strong gravitational effects from which nothing, not even light, can escape?
     A. White hole
@@ -60,26 +58,56 @@
     C. Singularity
     D. Black hole
 
-1. What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
-   A. Ionization energy
-   B. Binding energy
-   C. Threshold energy
-   D. Work function
+11. What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
+    A. Ionization energy
+    B. Binding energy
+    C. Threshold energy
+    D. Work function
 
-2. What is the term for the first successful test of the atomic bomb, conducted by the United States in July 1945?
-   A. Manhattan Project
-   B. Operation Overlord
-   C. Trinity test
-   D. Hiroshima bombing
+12. What is the term for the first successful test of the atomic bomb, conducted by the United States in July 1945?
+    A. Manhattan Project
+    B. Operation Overlord
+    C. Trinity test
+    D. Hiroshima bombing
 
-3. What was the name of the mission that successfully landed the first humans on the Moon in 1969?
-   A. Apollo 10
-   B. Apollo 13
-   C. Apollo 8
-   D. Apollo 11
+13. What was the name of the mission that successfully landed the first humans on the Moon in 1969?
+    A. Apollo 10
+    B. Apollo 13
+    C. Apollo 8
+    D. Apollo 11
 
-5. Which of the following is not a programming paradigm?
-   A. Functional
-   B. Sequential
-   C. Object-oriented
-   D. Procedural
+14. Which of the following is not a programming paradigm?
+    A. Functional
+    B. Sequential
+    C. Object-oriented
+    D. Procedural
+
+15. Bit stands for
+    A. Binary digits
+    B. Bit of system
+    C. A part of Byte
+    D. All of the above
+
+16. Program designed to perform specific task is known as 
+    A. System Software 
+    B. Application Software
+    C. Utility program
+    D. Operating System
+
+17. Which of the following is not an input device?
+    A. Scanner 
+    B. Camera
+    C. Digitizer 
+    D. Plotter 
+
+18. How many color dots make up one color pixel on a screen?
+    A. 265
+    B. 16
+    C. 8
+    D. 3
+
+19. Which one of the following groups contains graphical file extensions?
+    A. JPG, CPX, GCM
+    B. GIF, TCE, WMF
+    C. TCP, JPG, BMP
+    D. JPG, GIF, BMP

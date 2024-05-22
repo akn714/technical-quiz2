@@ -1,0 +1,64 @@
+1. Bit stands for
+A. Binary digits
+B. Bit of system
+C. A part of Byte
+D. All of the above
+A
+
+
+2. Program designed to perform specific task is known as 
+A. System Software 
+B. Application Software
+C. Utility program
+D. Opertating System
+B
+
+
+3. What is the responsibilty of the logical unit in the CPU of a computer?
+A. To produce result 
+B. To compare numbers
+C. To control flow of information 
+D. To do math's works 
+B
+
+4. Which of the following is not a input device?
+A. Scanner 
+B. Camera
+C. Digitizer 
+D. Plotter 
+c
+
+5. Which of the following is not a type of computer code?
+A. EDIC 
+B. ASCII
+C. BCD 
+D. EBCDIC 
+a
+
+6. How many color dots make up one color pixel on a screen?
+A. 265
+B. 16
+C. 8
+D. 3
+a
+
+7. Which one of the following groups contains graphical file extensions?
+A. JPG, CPX, GCM
+B. GIF, TCE, WMF
+C. TCP, JPG, BMP
+D. JPG, GIF, BMP
+
+8. What is the speed of computer measured in?
+A. Nanoseconds
+B. Kilo-seconds
+C. Gigahertz
+D. Megabytes
+
+9. Who is the father of internet?
+A. Chares Babbage
+B. Vint Cerf
+C. Denis Riche
+D. Martin Cooper
+
+
+    
