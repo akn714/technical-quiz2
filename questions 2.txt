@@ -1,0 +1,59 @@
+1. Which process is used to separate components of a liquid mixture based on the differences in their boiling points?
+   A. Filtration
+   B. Crystallization
+   C. Distillation
+   D. Evaporation
+
+2. Who was the first human to journey into outer space?
+   A. Buzz Aldrin
+   B. Neil Armstrong
+   C. Yuri Gagarin
+   D. Valentina Tereshkova
+
+3. What was the name of the first computer virus, and in what year was it discovered?
+   A. ILOVEYOU, 2000
+   B. Melissa, 1999
+   C. Brain, 1986
+   D. Creeper, 1971
+
+4. What year was the first email sent, and who sent it?
+   A. 1985, Tim Berners-Lee
+   B. 1971, Ray Tomlinson
+   C. 1990, Bill Gates
+   D. 1978, Steve Jobs
+
+5. Which scientist is credited with the discovery of radioactivity?
+   A. Niels Bohr
+   B. Isaac Newton
+   C. Marie Curie
+   D. Albert Einstein
+
+6. Which country is credited with the invention of paper?
+   A. India
+   B. Greece
+   C. China
+   D. Egypt
+
+7. According to Einstein's theory of general relativity, what is the phenomenon that occurs when massive objects cause a curvature in spacetime?
+   A. Black hole formation
+   B. Time dilation
+   C. Gravitational lensing
+   D. Wormhole creation
+
+8. Which particle is responsible for mediating the electromagnetic force?
+   A. Graviton
+   B. Gluon
+   C. Photon
+   D. W boson
+
+9. Which phenomenon describes the splitting of a single particle into two particles, such as electron-positron pairs, in the presence of a strong electric field?
+   A. Annihilation
+   B. Photoelectric effect
+   C. Compton scattering
+   D. Pair production
+
+10. What is the term for the hypothetical region of spacetime with extremely strong gravitational effects from which nothing, not even light, can escape?
+    A. White hole
+    B. Event horizon
+    C. Singularity
+    D. Black hole

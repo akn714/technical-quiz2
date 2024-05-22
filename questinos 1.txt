@@ -1,0 +1,83 @@
+1. Who is considered the father of computer science?
+   A. Alan Turing
+   B. Charles Babbage
+   C. John von Neumann
+   D. Ada Lovelace
+
+2. Which was the first general-purpose electronic digital computer?
+   A. ENIAC
+   B. UNIVAC
+   C. IBM 701
+   D. Mark I
+
+3. Who is credited with creating the World Wide Web?
+   A. Vint Cerf
+   B. Tim Berners-Lee
+   C. Larry Page
+   D. Bill Gates
+
+4. Who is considered the father of electrical engineering for his work on electromagnetism?
+   A. Thomas Edison
+   B. Nikola Tesla
+   C. Michael Faraday
+   D. James Clerk Maxwell
+
+5. What is the significance of the Voltaic Pile, invented by Alessandro Volta?
+   A. First electric light
+   B. First electric motor
+   C. First chemical battery
+   D. First radio transmitter
+
+6. When was the first public demonstration of electric light by Thomas Edison?
+   A. 1876
+   B. 1879
+   C. 1882
+   D. 1885
+
+7. Who is known as the "Father of Modern Mechanical Engineering"?
+   A. James Watt
+   B. George Stephenson
+   C. Nikola Tesla
+   D. Isaac Newton
+
+8. What is the significance of the work of Leonardo da Vinci in mechanical engineering?
+   A. He invented the steam engine
+   B. He designed numerous mechanical devices and concepts
+   C. He developed the first hydraulic press
+   D. He created the first working airplane
+
+9. Who is known as the "Father of Civil Engineering"?
+   A. John Smeaton
+   B. Thomas Telford
+   C. Isambard Kingdom Brunel
+   D. Gustave Eiffel
+
+10. What was the primary material used in the construction of the Eiffel Tower?
+    A. Concrete
+    B. Steel
+    C. Iron
+    D. Brick
+
+11. Which year did Google launch its search engine?
+    A. 1996
+    B. 1998
+    C. 2000
+    D. 2002
+
+12. What is the primary use of an oscilloscope?
+    A. Measuring voltage
+    B. Observing varying signal voltages
+    C. Generating electrical power
+    D. Amplifying signals
+
+13. What is the purpose of an API (Application Programming Interface)?
+    A. To manage databases
+    B. To create user interfaces
+    C. To allow different software systems to communicate with each other
+    D. To design web pages
+
+14. What is the main purpose of the virtual memory in an operating system?
+    A. To increase the RAM size
+    B. To speed up the CPU
+    C. To provide more memory to applications than physically available
+    D. To store frequently accessed files

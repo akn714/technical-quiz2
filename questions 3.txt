@@ -1,0 +1,47 @@
+1. What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
+   A. Ionization energy
+   B. Binding energy
+   C. Threshold energy
+   D. Work function
+
+2. What is the term for the first successful test of the atomic bomb, conducted by the United States in July 1945?
+   A. Manhattan Project
+   B. Operation Overlord
+   C. Trinity test
+   D. Hiroshima bombing
+
+3. What was the name of the mission that successfully landed the first humans on the Moon in 1969?
+   A. Apollo 10
+   B. Apollo 13
+   C. Apollo 8
+   D. Apollo 11
+
+4. Who is credited with the discovery of X-rays in 1895?
+   A. Max Planck
+   B. Marie Curie
+   C. Ernest Rutherford
+   D. Wilhelm Conrad Röntgen
+
+5. Which of the following is not a programming paradigm?
+   A. Functional
+   B. Sequential
+   C. Object-oriented
+   D. Procedural
+
+6. Which of the following is an example of a distributed computing system?
+   A. Standalone desktop application
+   B. Single-threaded program
+   C. Centralized database
+   D. Blockchain
+
+7. Which encryption algorithm is commonly used for securing internet communications, such as HTTPS?
+   A. DES
+   B. AES
+   C. MD5
+   D. RSA
+
+8. Which of the following is not a component of an operating system?
+   A. Shell
+   B. Kernel
+   C. File system
+   D. Compiler

@@ -1,0 +1,57 @@
+What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
+a) Work function
+b) Ionization energy
+c) Binding energy
+d) Threshold energy
+B
+
+What is the term for the first successful test of the atomic bomb, conducted by the United States in July 1945?
+a) Trinity test
+b) Manhattan Project
+c) Operation Overlord
+d) Hiroshima bombing
+A
+
+What was the name of the mission that successfully landed the first humans on the Moon in 1969?
+a) Apollo 11
+b) Apollo 13
+c) Apollo 10
+d) Apollo 8
+A
+
+Who is credited with the discovery of X-rays in 1895?
+a) Wilhelm Conrad Röntgen
+b) Marie Curie
+c) Ernest Rutherford
+d) Max Planck
+A
+
+Which of the following is not a programming paradigm?
+a) Object-oriented
+b) Procedural
+c) Functional
+d) Sequential
+D
+
+Which of the following is an example of a distributed computing system?
+a) Blockchain
+b) Centralized database
+c) Standalone desktop application
+d) Single-threaded program
+A
+
+Which encryption algorithm is commonly used for securing internet communications, such as HTTPS?
+a) RSA
+b) AES
+c) DES
+d) MD5
+B
+
+Which of the following is not a component of an operating system?
+a) Kernel
+b) Shell
+c) Compiler
+d) File system
+
+C
+

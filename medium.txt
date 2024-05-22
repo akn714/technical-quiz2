@@ -1,0 +1,83 @@
+2. Which was the first general-purpose electronic digital computer?
+   A. ENIAC
+   B. UNIVAC
+   C. IBM 701
+   D. Mark I
+
+3. Who is credited with creating the World Wide Web?
+   A. Vint Cerf
+   B. Tim Berners-Lee
+   C. Larry Page
+   D. Bill Gates
+
+6. When was the first public demonstration of electric light by Thomas Edison?
+   A. 1876
+   B. 1879
+   C. 1882
+   D. 1885
+
+7. Who is known as the "Father of Modern Mechanical Engineering"?
+   A. James Watt
+   B. George Stephenson
+   C. Nikola Tesla
+   D. Isaac Newton
+
+9. Who is known as the "Father of Civil Engineering"?
+   A. John Smeaton
+   B. Thomas Telford
+   C. Isambard Kingdom Brunel
+   D. Gustave Eiffel
+
+11. Which year did Google launch its search engine?
+    A. 1996
+    B. 1998
+    C. 2000
+    D. 2002
+
+2. Who was the first human to journey into outer space?
+   A. Buzz Aldrin
+   B. Neil Armstrong
+   C. Yuri Gagarin
+   D. Valentina Tereshkova
+
+3. What was the name of the first computer virus, and in what year was it discovered?
+   A. ILOVEYOU, 2000
+   B. Melissa, 1999
+   C. Brain, 1986
+   D. Creeper, 1971
+
+4. What year was the first email sent, and who sent it?
+   A. 1985, Tim Berners-Lee
+   B. 1971, Ray Tomlinson
+   C. 1990, Bill Gates
+   D. 1978, Steve Jobs
+
+8. Which particle is responsible for mediating the electromagnetic force?
+   A. Graviton
+   B. Gluon
+   C. Photon
+   D. W boson
+
+9. Which phenomenon describes the splitting of a single particle into two particles, such as electron-positron pairs, in the presence of a strong electric field?
+   A. Annihilation
+   B. Photoelectric effect
+   C. Compton scattering
+   D. Pair production
+
+4. Who is credited with the discovery of X-rays in 1895?
+   A. Max Planck
+   B. Marie Curie
+   C. Ernest Rutherford
+   D. Wilhelm Conrad Röntgen
+
+6. Which of the following is an example of a distributed computing system?
+   A. Standalone desktop application
+   B. Single-threaded program
+   C. Centralized database
+   D. Blockchain
+
+8. Which of the following is not a component of an operating system?
+   A. Shell
+   B. Kernel
+   C. File system
+   D. Compiler

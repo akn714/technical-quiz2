@@ -1,0 +1,23 @@
+5. What is the significance of the Voltaic Pile, invented by Alessandro Volta?
+   A. First electric light
+   B. First electric motor
+   C. First chemical battery
+   D. First radio transmitter
+
+12. What is the primary use of an oscilloscope?
+    A. Measuring voltage
+    B. Observing varying signal voltages
+    C. Generating electrical power
+    D. Amplifying signals
+
+7. According to Einstein's theory of general relativity, what is the phenomenon that occurs when massive objects cause a curvature in spacetime?
+   A. Black hole formation
+   B. Time dilation
+   C. Gravitational lensing
+   D. Wormhole creation
+
+7. Which encryption algorithm is commonly used for securing internet communications, such as HTTPS?
+   A. DES
+   B. AES
+   C. MD5
+   D. RSA
