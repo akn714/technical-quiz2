@@ -59,9 +59,9 @@
     D. Hiroshima bombing
 
 11. Who is the father of internet?
-    A. Chares Babbage
+    A. Charles Babbage
     B. Vint Cerf
-    C. Denis Riche
+    C. Dennis Ritchie
     D. Martin Cooper
 
 12. When was the first public demonstration of electric light by Thomas Edison?
@@ -82,20 +82,10 @@
     C. Utility program
     D. Operating System
 
-15. What is the speed of computer measured in?
-    A. Nanoseconds
-    B. Kilo-seconds
-    C. Gigahertz
-    D. Megabytes
-
-16. Bit stands for
+15. Bit stands for
     A. Binary digits
     B. Bit of system
     C. A part of Byte
     D. All of the above
 
-17. Who is known as the "Father of Civil Engineering"?
-    A. John Smeaton
-    B. Thomas Telford
-    C. Isambard Kingdom Brunel
-    D. Gustave Eiffel
+

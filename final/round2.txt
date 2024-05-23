@@ -1,99 +1,8 @@
-HARD QUESTIONS
-
-1. What is the significance of the Voltaic Pile, invented by Alessandro Volta?
-   A. First electric light
-   B. First electric motor
-   C. First chemical battery
-   D. First radio transmitter
-
-2. What is the primary use of an oscilloscope?
-   A. Measuring voltage
-   B. Observing varying signal voltages
-   C. Generating electrical power
-   D. Amplifying signals
-
-3. According to Einstein's theory of general relativity, what is the phenomenon that occurs when massive objects cause a curvature in spacetime?
-   A. Black hole formation
-   B. Time dilation
-   C. Gravitational lensing
-   D. Wormhole creation
-
-4. Which encryption algorithm is commonly used for securing internet communications, such as HTTPS?
-   A. DES
-   B. AES
-   C. MD5
-   D. RSA
-
-
-MEDIIUM QUESTIONS
-
-1. Who is known as the "Father of Modern Mechanical Engineering"?
-   A. James Watt
-   B. George Stephenson
-   C. Nikola Tesla
-   D. Isaac Newton
-
-2. What is the responsibility of the logical unit in the CPU of a computer?
-   A. To produce result 
-   B. To compare numbers
-   C. To control flow of information 
-   D. To do math's works 
-
-3. Who is credited with creating the World Wide Web?
-   A. Vint Cerf
-   B. Tim Berners-Lee
-   C. Larry Page
-   D. Bill Gates
-
-4. Who was the first human to journey into outer space?
-   A. Buzz Aldrin
-   B. Neil Armstrong
-   C. Yuri Gagarin
-   D. Valentina Tereshkova
-
-5. Which of the following is an example of a distributed computing system?
-   A. Standalone desktop application
-   B. Single-threaded program
-   C. Centralized database
-   D. Blockchain
-
-6. What was the name of the first computer virus, and in what year was it discovered?
-   A. ILOVEYOU, 2000
-   B. Melissa, 1999
-   C. Brain, 1986
-   D. Creeper, 1971
-
-7. Which year did Google launch its search engine?
-   A. 1996
-   B. 1998
-   C. 2000
-   D. 2002
-
-8. What year was the first email sent, and who sent it?
-   A. 1985, Tim Berners-Lee
-   B. 1971, Ray Tomlinson
-   C. 1990, Bill Gates
-   D. 1978, Steve Jobs
-
-9. Which of the following is not a component of an operating system?
-   A. Shell
-   B. Kernel
-   C. File system
-   D. Compiler
-
-10. Which of the following is not a type of computer code?
-    A. EDIC 
-    B. ASCII
-    C. BCD 
-    D. EBCDIC 
-
-EASY QUESTIONS
-
-1. What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
-   A. Ionization energy
-   B. Binding energy
-   C. Threshold energy
-   D. Work function
+1. Which one of the following groups contains graphical file extensions?
+   A. JPG, CPX, GCM
+   B. GIF, TCE, WMF
+   C. TCP, JPG, BMP
+   D. JPG, GIF, BMP
 
 2. What was the primary material used in the construction of the Eiffel Tower?
    A. Concrete
@@ -107,11 +16,11 @@ EASY QUESTIONS
    C. Object-oriented
    D. Procedural
 
-4. Which one of the following groups contains graphical file extensions?
-   A. JPG, CPX, GCM
-   B. GIF, TCE, WMF
-   C. TCP, JPG, BMP
-   D. JPG, GIF, BMP
+4. What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
+   A. Ionization energy
+   B. Binding energy
+   C. Threshold energy
+   D. Work function
 
 5. What is the purpose of an API (Application Programming Interface)?
    A. To manage databases
@@ -120,10 +29,10 @@ EASY QUESTIONS
    D. To design web pages
 
 6. Which of the following is not an input device?
-   A. Scanner 
+   A. Scanner
    B. Camera
-   C. Digitizer 
-   D. Plotter 
+   C. Digitizer
+   D. Plotter
 
 7. What is the main purpose of the virtual memory in an operating system?
    A. To increase the RAM size
@@ -144,7 +53,97 @@ EASY QUESTIONS
    D. Evaporation
 
 10. Who is considered the father of electrical engineering for his work on electromagnetism?
-    A. Thomas Edison
-    B. Nikola Tesla
-    C. Michael Faraday
-    D. James Clerk Maxwell
+   A. Thomas Edison
+   B. Nikola Tesla
+   C. Michael Faraday
+   D. James Clerk Maxwell
+
+11. Who is known as the "Father of Modern Mechanical Engineering"?
+   A. James Watt
+   B. George Stephenson
+   C. Nikola Tesla
+   D. Isaac Newton
+
+12. What is the responsibility of the logical unit in the CPU of a computer?
+   A. To produce result 
+   B. To compare numbers
+   C. To control flow of information 
+   D. To do math's works 
+
+13. Who is credited with creating the World Wide Web?
+   A. Vint Cerf
+   B. Tim Berners-Lee
+   C. Larry Page
+   D. Bill Gates
+
+14. Who was the first human to journey into outer space?
+   A. Buzz Aldrin
+   B. Neil Armstrong
+   C. Yuri Gagarin
+   D. Valentina Tereshkova
+
+15. Which of the following is an example of a distributed computing system?
+   A. Standalone desktop application
+   B. Single-threaded program
+   C. Centralized database
+   D. Blockchain
+
+16. What was the name of the first computer virus, and in what year was it discovered?
+   A. ILOVEYOU, 2000
+   B. Melissa, 1999
+   C. Brain, 1986
+   D. Creeper, 1971
+
+18. What is the clock speed of computer measured in?
+    A. Nanoseconds
+    B. Kilo-seconds
+    C. Gigahertz
+    D. Megabytes
+
+17. Which year did Google launch its search engine?
+   A. 1996
+   B. 1998
+   C. 2000
+   D. 2002
+
+19. Which of the following is not a component of an operating system?
+   A. Shell
+   B. Kernel
+   C. File system
+   D. Compiler
+
+20. Which of the following is not a type of computer code?
+    A. EDIC 
+    B. ASCII
+    C. BCD 
+    D. EBCDIC 
+
+21. What is the significance of the Voltaic Pile, invented by Alessandro Volta?
+   A. First electric light
+   B. First electric motor
+   C. First chemical battery
+   D. First radio transmitter
+
+22. What is the primary use of an oscilloscope?
+   A. Measuring voltage
+   B. Observing varying signal voltages
+   C. Generating electrical power
+   D. Amplifying signals
+
+23. According to Einstein's theory of general relativity, what is the phenomenon that occurs when massive objects cause a curvature in spacetime?
+   A. Black hole formation
+   B. Time dilation
+   C. Gravitational lensing
+   D. Wormhole creation
+
+24. Which encryption algorithm is commonly used for securing internet communications, such as HTTPS?
+   A. DES
+   B. AES
+   C. MD5
+   D. RSA
+
+25. What year was the first email sent, and who sent it?
+   A. 1985, Tim Berners-Lee
+   B. 1971, Ray Tomlinson
+   C. 1990, Bill Gates
+   D. 1978, Steve Jobs

@@ -1,0 +1,101 @@
+Answer Sheet
+
+1. Which one of the following groups contains graphical file extensions?
+   Answer: D. JPG, GIF, BMP
+   Explanation: JPG, GIF, and BMP are all common graphical file formats used for images, whereas the other options include non-graphical file extensions.
+
+2. What was the primary material used in the construction of the Eiffel Tower?
+   Answer: C. Iron
+   Explanation: The Eiffel Tower was constructed using iron, which was the primary material used by Gustave Eiffel for this iconic structure.
+
+3. Which of the following is not a programming paradigm?
+   Answer: B. Sequential
+   Explanation: Functional, Object-oriented, and Procedural are well-known programming paradigms, whereas "Sequential" is not considered a distinct paradigm.
+
+4. What is the term for the minimum amount of energy required to remove an electron from the surface of a material, often measured in electron volts (eV)?
+   Answer: D. Work function
+   Explanation: The work function is the minimum energy needed to remove an electron from the surface of a material.
+
+5. What is the purpose of an API (Application Programming Interface)?
+   Answer: C. To allow different software systems to communicate with each other
+   Explanation: APIs enable different software systems to communicate and interact with each other.
+
+6. Which of the following is not an input device?
+   Answer: D. Plotter
+   Explanation: A plotter is an output device used for printing vector graphics, whereas scanners, cameras, and digitizers are input devices.
+
+7. What is the main purpose of the virtual memory in an operating system?
+   Answer: C. To provide more memory to applications than physically available
+   Explanation: Virtual memory allows an operating system to compensate for physical memory shortages by temporarily transferring data from RAM to disk storage.
+
+8. Which scientist is credited with the discovery of radioactivity?
+   Answer: C. Marie Curie
+   Explanation: Marie Curie is renowned for her research on radioactivity and won two Nobel Prizes for her work in physics and chemistry.
+
+9. Which process is used to separate components of a liquid mixture based on the differences in their boiling points?
+   Answer: C. Distillation
+   Explanation: Distillation separates liquid mixtures by heating them to turn the component with the lower boiling point into vapor, which is then condensed back into liquid form.
+
+10. Who is considered the father of electrical engineering for his work on electromagnetism?
+    Answer: C. Michael Faraday
+    Explanation: Michael Faraday is credited with foundational discoveries in electromagnetism and electrochemistry.
+
+11. Who is known as the "Father of Modern Mechanical Engineering"?
+    Answer: A. James Watt
+    Explanation: James Watt is renowned for his improvements to the steam engine, which played a critical role in the Industrial Revolution.
+
+12. What is the responsibility of the logical unit in the CPU of a computer?
+    Answer: B. To compare numbers
+    Explanation: The logical unit within a CPU performs comparison and logical operations on data.
+
+13. Who is credited with creating the World Wide Web?
+    Answer: B. Tim Berners-Lee
+    Explanation: Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN.
+
+14. Who was the first human to journey into outer space?
+    Answer: C. Yuri Gagarin
+    Explanation: Yuri Gagarin, a Soviet astronaut, was the first human to journey into outer space on April 12, 1961.
+
+15. Which of the following is an example of a distributed computing system?
+    Answer: D. Blockchain
+    Explanation: Blockchain is a distributed computing system where data is distributed across multiple nodes for decentralization and security.
+
+16. What was the name of the first computer virus, and in what year was it discovered?
+    Answer: D. Creeper, 1971
+    Explanation: The Creeper virus, created in 1971, is recognized as the first computer virus.
+
+17. What is the clock speed of computer measured in?
+    Answer: C. Gigahertz
+    Explanation: The clock speed of a computer's CPU is typically measured in gigahertz (GHz), representing billions of cycles per second.
+
+18. Which year did Google launch its search engine?
+    Answer: B. 1998
+    Explanation: Google launched its search engine in 1998.
+
+19. Which of the following is not a component of an operating system?
+    Answer: D. Compiler
+    Explanation: A compiler is a software tool that translates source code into executable code, not a core component of an operating system like the shell, kernel, or file system.
+
+20. Which of the following is not a type of computer code?
+    Answer: A. EDIC
+    Explanation: ASCII, BCD, and EBCDIC are types of computer codes for character representation, whereas EDIC is not a recognized code type.
+
+21. What is the significance of the Voltaic Pile, invented by Alessandro Volta?
+    Answer: C. First chemical battery
+    Explanation: The Voltaic Pile, invented by Alessandro Volta in 1800, was the first chemical battery capable of providing continuous electrical current.
+
+22. What is the primary use of an oscilloscope?
+    Answer: B. Observing varying signal voltages
+    Explanation: Oscilloscopes are used to observe the varying signal voltages in electronic circuits.
+
+23. According to Einstein's theory of general relativity, what is the phenomenon that occurs when massive objects cause a curvature in spacetime?
+    Answer: C. Gravitational lensing
+    Explanation: Gravitational lensing is the bending of light around massive objects due to the curvature of spacetime, as predicted by general relativity.
+
+24. Which encryption algorithm is commonly used for securing internet communications, such as HTTPS?
+    Answer: D. RSA
+    Explanation: RSA is a widely used encryption algorithm for securing internet communications, including HTTPS.
+
+25. What year was the first email sent, and who sent it?
+    Answer: B. 1971, Ray Tomlinson
+    Explanation: Ray Tomlinson sent the first email in 1971, using the @ symbol to separate the user's name from the machine name.

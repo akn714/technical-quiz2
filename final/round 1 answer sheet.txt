@@ -1,0 +1,61 @@
+Answer Sheet
+
+1. Which phenomenon describes the splitting of a single particle into two particles, such as electron-positron pairs, in the presence of a strong electric field?
+   Answer: D. Pair production
+   Explanation: Pair production is a phenomenon where a single photon splits into an electron and a positron in the presence of a strong electric field.
+
+2. Which was the first general-purpose electronic digital computer?
+   Answer: A. ENIAC
+   Explanation: The ENIAC (Electronic Numerical Integrator and Computer) was the first general-purpose electronic digital computer, completed in 1945.
+
+3. Who is considered the father of computer science?
+   Answer: A. Alan Turing
+   Explanation: Alan Turing is considered the father of computer science for his foundational work in developing theoretical computer science and the concept of algorithms.
+
+4. Which of the following is responsible for mediating the electromagnetic force?
+   Answer: C. Photon
+   Explanation: The photon is the elementary particle responsible for mediating the electromagnetic force in the framework of quantum field theory.
+
+5. Which country is credited with the invention of paper?
+   Answer: C. China
+   Explanation: Paper was invented in China during the Han Dynasty, around 105 AD, by Cai Lun.
+
+6. What is the term for the hypothetical region of spacetime with extremely strong gravitational effects from which nothing, not even light, can escape?
+   Answer: D. Black hole
+   Explanation: A black hole is a region of spacetime with gravitational effects so strong that nothing, not even light, can escape from it.
+
+7. How many color dots make up one color pixel on a screen?
+   Answer: D. 3
+   Explanation: One color pixel on a screen is typically made up of three color dots: red, green, and blue (RGB).
+
+8. What was the name of the mission that successfully landed the first humans on the Moon in 1969?
+   Answer: D. Apollo 11
+   Explanation: Apollo 11 was the mission that successfully landed the first humans, Neil Armstrong and Buzz Aldrin, on the Moon on July 20, 1969.
+
+9. Who is credited with the discovery of X-rays in 1895?
+   Answer: D. Wilhelm Conrad Röntgen
+   Explanation: Wilhelm Conrad Röntgen discovered X-rays in 1895, an achievement for which he was awarded the first Nobel Prize in Physics in 1901.
+
+10. What is the term for the first successful test of the atomic bomb, conducted by the United States in July 1945?
+    Answer: C. Trinity test
+    Explanation: The Trinity test, conducted on July 16, 1945, was the first successful detonation of an atomic bomb by the United States.
+
+11. Who is the father of internet?
+    Answer: B. Vint Cerf
+    Explanation: Vint Cerf, along with Bob Kahn, is considered one of the fathers of the Internet for their work on TCP/IP protocols.
+
+12. When was the first public demonstration of electric light by Thomas Edison?
+    Answer: B. 1879
+    Explanation: Thomas Edison publicly demonstrated his incandescent light bulb for the first time on December 31, 1879.
+
+13. What is the significance of the work of Leonardo da Vinci in mechanical engineering?
+    Answer: B. He designed numerous mechanical devices and concepts
+    Explanation: Leonardo da Vinci is renowned for his detailed sketches and designs of numerous mechanical devices and concepts, which were ahead of his time.
+
+14. Program designed to perform specific task is known as 
+    Answer: B. Application Software
+    Explanation: Application software is designed to perform specific tasks for users, such as word processing, web browsing, or gaming.
+
+15. Bit stands for
+    Answer: A. Binary digits
+    Explanation: A bit, or binary digit, is the smallest unit of data in computing, representing a binary value of 0 or 1.
