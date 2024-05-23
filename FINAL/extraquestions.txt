@@ -1,0 +1,72 @@
+What is the primary function of a firewall?
+
+A) Encrypt data
+B) Prevent unauthorized access
+C) Backup data
+D) Monitor network traffic
+B
+
+The first high-level programming language, created in 1950s, is:
+A. COBOL
+B. FORTRAN
+C. BASIC
+D. C
+B
+
+Which programming language is primarily used for developing Android applications?
+
+A) Swift
+B) Kotlin
+C) JavaScript
+D) Ruby
+B
+
+What does HTTPS stand for?
+
+A) Hyper Text Transfer Protocol Secure
+B) Hyper Text Transfer Protocol Standard
+C) Hyper Text Transfer Protocol Simple
+D) Hyper Text Transfer Protocol Service
+A
+
+Which of the following is an open-source operating system?
+
+A) Windows
+B) macOS
+C) Linux
+D) Android
+C
+
+What is the main advantage of using a hash table?
+
+A) It sorts data
+B) It stores data in order
+C) It allows fast data retrieval
+D) It uses less memory
+C
+
+What is the device used to measure rotational speed called?
+
+A) Barometer
+B) Tachometer
+C) Speedometer
+D) Anemometer
+B
+
+What is the method used to find the internal forces and moments in structures?
+
+A) Analysis
+B) Design
+C) Simulation
+D) Fabrication
+A
+
+What was the name of the first artificial satellite launched into space by the Soviet Union in 1957?
+
+A) Apollo 11
+B) Voyager 1
+C) Sputnik 1
+D) Hubble Space Telescope
+C
+
+

@@ -1,0 +1,13 @@
+1. (B) Prevent unauthorized access
+2. (C) Linux
+3. (A) Field
+4. (B) FORTRAN
+5. (B) Kotlin
+6. (A) Hyper Text Transfer Protocol Secure
+7. (C) It allows fast data retrieval
+8. (B) Tachometer
+9. (A) Analysis
+10. (C) Sputnik 1
+11. (B) Ada Lovelace
+12. (C) Programmable Logic Controller
+13. (D) Gas, solid state, diode
